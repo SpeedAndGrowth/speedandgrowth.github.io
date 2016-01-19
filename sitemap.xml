@@ -3,7 +3,13 @@
   
   <url>
     <loc>http://speedandgrowth.com/</loc>
+    <lastmod>2016-01-19T22:20:42+09:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>http://speedandgrowth.com/about/</loc>
+    <lastmod>2016-01-19T22:20:42+09:00</lastmod>
   </url>
   
 </urlset>
